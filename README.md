@@ -17,14 +17,14 @@ de studie ervaring die ik heb zijn de richtingen
   <li>applicatie en databeheer</li>
 </ul>
 
-## werkervaring
+## werkervaring👷🏾‍♀️
 de werk ervaring die ik heb
 <ul>
   <li>in de okay(colruytgroup) van Vichte</li>
   <li>leiding geven in de chiro van Ingooigem</li>
 </ul>
 
-## Contact
+## Contact📱
 <ul>
   <li><strong>locatie:</strong>VTI Waregem</li>
   <li><strong>gsm:</strong>+32 470 65 50 33</li>
@@ -32,7 +32,7 @@ de werk ervaring die ik heb
   <li><strong>website:</strong>http://gipjeromecibois.scienceontheweb.net/index.html</li>
 </ul>
 
-## Vaardigheden
+## Vaardigheden💪
 de progamma's waar ik mee kan werken.
 <ul>
   <li>microcontroller</li>
@@ -60,7 +60,7 @@ de progamma's waar ik mee kan werken.
   <li>ledkubus maken en verschillende patronen in de leds maken</li>
 </ul>
 
-## doelen voor later
+## doelen voor later🔜
  <ul>
    <li>job krijgen in verband met software</li>
    <li>een mooi loon verdienen met de job</li>
