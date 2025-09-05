@@ -8,7 +8,6 @@ Zelf vond ik het 1 van mijn beste beslissingen. Nu zie ik hoe sommige kinderen g
 Ook vind ik het fascinerend om te zien hoe sommige kinderen je zien als voorbeeld. Ook een mooi voordeel aan leiding zijn is dat je elke week je vrienden ziet waarmee je al die mooie herinneringen in de chiro hebt gemaakt. hier word er toch wel bijna elke maand eens op terug geblikt.
 ## opleidingen
 <h3>mijn studie ervaringen</h3>
-de studie ervaring die ik heb zijn de richtingen
 <ul>
   <li>STEM-Technieken</li>
   <li>STEM-mechanica en electronica</li>
@@ -18,7 +17,7 @@ de studie ervaring die ik heb zijn de richtingen
 </ul>
 
 ## werkervaring👷🏾‍♀️
-de werk ervaring die ik heb
+<h3>mijn werk ervaringen</h3>
 <ul>
   <li>in de okay(colruytgroup) van Vichte</li>
   <li>leiding geven in de chiro van Ingooigem</li>
